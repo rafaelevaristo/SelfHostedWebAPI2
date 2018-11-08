@@ -1,0 +1,5 @@
+packages/
+SelfHostedWebAPI2.Service/obj/
+SelfHostedWebAPI2.Service/bin/
+SelfHostedWebAPI2/obj/
+SelfHostedWebAPI2/bin/
